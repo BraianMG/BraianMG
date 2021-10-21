@@ -4,7 +4,7 @@
 - To get to know me a little more, I invite you to visit my [website](https://braiangonzales.netlify.app/)
 - You can contact me by:
   - Email: [braian.gonzales77@gmail.com](mailto:braian.gonzales77@gmail.com)
-  - LinkedIn [https://www.linkedin.com/in/braiangonzales/](https://www.linkedin.com/in/braiangonzales/)
+  - LinkedIn: [https://www.linkedin.com/in/braiangonzales/](https://www.linkedin.com/in/braiangonzales/)
   - WhatsApp: [+54 9 (261) 575-1298](https://api.whatsapp.com/send?phone=5492615751298&text=Write%20your%20question,%20I%20will%20answer%20you%20shortly.)
 
 <!---
