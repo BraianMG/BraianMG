@@ -1,7 +1,7 @@
 - Hi, I’m [BraianMG](https://braiangonzales.netlify.app/)
 - I'm a Full Stack Web Developer
 - I’m looking to collaborate on all kinds of projects oriented to web development, I am very interested in the integration of payment gateways and API Rest developments
-- To get to know me a little more, I invite you to visit my [website](https://braiangonzales.netlify.app/)
+- To get to know me a little more, I invite you to visit my website [https://braiangonzales.netlify.app/](https://braiangonzales.netlify.app/)
 - You can contact me by:
   - Email: [braian.gonzales77@gmail.com](mailto:braian.gonzales77@gmail.com)
   - LinkedIn: [https://www.linkedin.com/in/braiangonzales/](https://www.linkedin.com/in/braiangonzales/)
