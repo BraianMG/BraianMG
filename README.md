@@ -6,7 +6,7 @@
 ## Contact
   - Email: [braian.gonzales77@gmail.com](mailto:braian.gonzales77@gmail.com)
   - LinkedIn: [https://www.linkedin.com/in/braiangonzales/](https://www.linkedin.com/in/braiangonzales/)
-  - WhatsApp: [+54 9 (261) 575-1298](https://api.whatsapp.com/send?phone=5492615751298&text=Write%20your%20question,%20I%20will%20answer%20you%20shortly.)
+  - WhatsApp: [+34 611 69 82 60](https://api.whatsapp.com/send?phone=34611698260&text=Write%20your%20question,%20I%20will%20answer%20you%20shortly.)
 
 
 ## GitHub stats
